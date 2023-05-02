@@ -1,4 +1,4 @@
-import React, { FunctionComponent, useState, useCallback } from "react";
+import React from "react";
 import MapPage from "./pages/MapPage";
 
 export default function App() {
